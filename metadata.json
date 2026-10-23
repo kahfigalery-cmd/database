@@ -1,0 +1,6 @@
+{
+  "name": "SIS SAE - SMP Alam Excellentia Pamekasan",
+  "description": "Sistem Informasi Sekolah SMP Alam Excellentia Pamekasan terintegrasi untuk pengelolaan data siswa, guru, kelas, jadwal, absensi, dan nilai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
